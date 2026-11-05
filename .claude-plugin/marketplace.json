@@ -1,0 +1,28 @@
+{
+  "name": "nikicat",
+  "description": "Claude Code plugins by Nikolay Bryskin.",
+  "owner": { "name": "Nikolay Bryskin" },
+  "plugins": [
+    {
+      "name": "unsmell",
+      "source": { "source": "github", "repo": "nikicat/unsmell" },
+      "description": "Refactor the code smells out of your working changes before you commit them.",
+      "category": "development",
+      "homepage": "https://github.com/nikicat/unsmell"
+    },
+    {
+      "name": "tasks",
+      "source": { "source": "github", "repo": "nikicat/claude-tasks" },
+      "description": "Task tracking as plain Markdown files in each repo's .tasks/, deleted when done.",
+      "category": "productivity",
+      "homepage": "https://github.com/nikicat/claude-tasks"
+    },
+    {
+      "name": "ppq",
+      "source": { "source": "github", "repo": "nikicat/claude-ppq" },
+      "description": "ppq.ai toolkit: image gen/edit/upscale, Claude Code on ppq models, Bitcoin Lightning topups, and zero-to-working account setup.",
+      "category": "development",
+      "homepage": "https://github.com/nikicat/claude-ppq"
+    }
+  ]
+}
