@@ -23,6 +23,13 @@
       "description": "ppq.ai toolkit: image gen/edit/upscale, Claude Code on ppq models, Bitcoin Lightning topups, and zero-to-working account setup.",
       "category": "development",
       "homepage": "https://github.com/nikicat/claude-ppq"
+    },
+    {
+      "name": "imgflip",
+      "source": { "source": "github", "repo": "nikicat/imgflip-skill" },
+      "description": "Generate memes with the imgflip.com API: list/search templates, caption them (multi-box, positioned text), download the result.",
+      "category": "productivity",
+      "homepage": "https://github.com/nikicat/imgflip-skill"
     }
   ]
 }
