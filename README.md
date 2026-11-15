@@ -1,7 +1,7 @@
 # nikicat's Claude Code plugins
 
 ```
-/plugin marketplace add nikicat/claude-plugins
+/plugin marketplace add https://github.com/nikicat/claude-plugins.git
 /plugin install unsmell@nikicat
 /plugin install tasks@nikicat
 /plugin install ppq@nikicat
